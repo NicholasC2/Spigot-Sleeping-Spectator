@@ -1,7 +1,7 @@
-name: TemplatePlugin
+name: SleepingSpectator
 version: 1.0
 api-version: 1.21
-main: com.author.template.TemplatePlugin
+main: com.nick.sleeping.SleepingPlugin
 
 commands:
   test:

@@ -1,4 +1,9 @@
-out
-/.idea/
-/target/
-/mc-plugin-template.iml
+out/
+target/
+
+.idea/
+.vscode/
+
+mc-plugin-template.iml
+
+server/
