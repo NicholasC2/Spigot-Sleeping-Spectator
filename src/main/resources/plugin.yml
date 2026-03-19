@@ -2,3 +2,8 @@ name: SleepingSpectator
 version: 1.0
 api-version: 1.21
 main: com.nick.sleeping.SleepingPlugin
+
+commands:
+  wakeup:
+    description: youneedtowakeupyou'vebeensleepingforyears
+    usage: /<command>
